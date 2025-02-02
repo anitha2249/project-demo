@@ -1,3 +1,2 @@
 # project-demo
-my first repository
-name anitha
+my first repositoryname anitha
